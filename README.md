@@ -1,5 +1,5 @@
 # 🎮 About Me:
-hobbyist dev | mostly modding games | learning as i go
+hobbyist reverse engineer | modding games sometimes | learning as i go
 
 
 # 💻 Languages that I use:
